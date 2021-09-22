@@ -1,0 +1,19 @@
+{
+  "name": "homebridge-mi-led-bulb",
+  "version": "1.2.0",
+  "description": "",
+  "main": "index.js",
+  "keywords": [
+    "homebridge-plugin"
+  ],
+  "author": "",
+  "license": "ISC",
+  "engines": {
+    "homebridge": ">=0.4.30"
+  },
+  "homepage": "https://github.com/JsonDeveloper/homebridge-mi-led-bulb/blob/master/README.md",
+  "dependencies": {
+    "chroma-js": "^2.1.2",
+    "homebridge-lib": "^5.1.13"
+  }
+}
